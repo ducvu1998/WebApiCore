@@ -1,0 +1,14 @@
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\bin\Debug\net6.0\WebApiCore.Data.deps.json
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\bin\Debug\net6.0\WebApiCore.Data.runtimeconfig.json
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\bin\Debug\net6.0\WebApiCore.Data.dll
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\bin\Debug\net6.0\WebApiCore.Data.pdb
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\obj\Debug\net6.0\WebApiCore.Data.csproj.AssemblyReference.cache
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\obj\Debug\net6.0\WebApiCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\obj\Debug\net6.0\WebApiCore.Data.AssemblyInfoInputs.cache
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\obj\Debug\net6.0\WebApiCore.Data.AssemblyInfo.cs
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\obj\Debug\net6.0\WebApiCore.Data.csproj.CoreCompileInputs.cache
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\obj\Debug\net6.0\WebApiCore.Data.dll
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\obj\Debug\net6.0\refint\WebApiCore.Data.dll
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\obj\Debug\net6.0\WebApiCore.Data.pdb
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\obj\Debug\net6.0\WebApiCore.Data.genruntimeconfig.cache
+D:\VSD\ApiWeb\New folder\DSLK\WebApiCore.Data\obj\Debug\net6.0\ref\WebApiCore.Data.dll
